@@ -2,7 +2,7 @@
 
 An app that performs the basic CRUD functions
 
-## 🛠️ HOW TO USE THIS REPO
+### 🛠️ HOW TO USE THIS REPO
 1. Clone the project, you can use the following command:
      ```bash
       git clone https://github.com/tireddev24/php-crud 
