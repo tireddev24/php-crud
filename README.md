@@ -1,6 +1,8 @@
 ## PHP CRUD 
 
 An app that performs the basic CRUD functions
+![image](https://github.com/user-attachments/assets/1ec45126-3724-4265-b883-d857955131f4)
+
 
 ### 🛠️ HOW TO USE THIS REPO
 1. Clone the project, you can use the following command:
